@@ -1,4 +1,4 @@
-package io.pilarrm;
+package src.main.java.io.pilarrm;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;
